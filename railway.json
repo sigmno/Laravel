@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "composer install --ignore-platform-req=php --no-dev --optimize-autoloader --no-interaction"
+  }
+}
